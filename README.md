@@ -35,4 +35,4 @@ This is a browser-based Tic Tac Toe game where you play against a computer oppon
 
 ## License
 
-&copy; 2023 GitHub &bull; [MIT License](https://gh.io/mit)
+&copy; 2023-2026 GitHub &bull; [MIT License](https://gh.io/mit)
