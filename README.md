@@ -1,54 +1,38 @@
-<header>
+# Tic Tac Toe Game
 
-<!--
-  <<< Author notes: Course header >>>
-  Include a 1280×640 image, course title in sentence case, and a concise description in emphasis.
-  In your repository settings: enable template repository, add your 1280×640 social image, auto delete head branches.
-  Add your open source license, GitHub uses MIT license.
--->
+A simple and interactive Tic Tac Toe game built with HTML, CSS, and JavaScript.
 
-# Review pull requests
+## About
 
-_Collaborate and work together on GitHub._
+This is a browser-based Tic Tac Toe game where you play against a computer opponent. The game features:
 
-</header>
+- **Player vs Computer**: You play as 🧑‍💻 (human) against 🤖 (robot)
+- **Random First Move**: The game randomly decides who goes first
+- **Simple Interface**: Clean and responsive design that works on all devices
+- **Dark Mode Support**: Automatically adapts to your system's color scheme preference
 
-<!--
-  <<< Author notes: Step 2 >>>
-  Start this step by acknowledging the previous step.
-  Define terms and link to docs.github.com.
-  Historic note: this step combines the commend, approve, and needs changes steps from the previous version.
--->
+## How to Play
 
-## Step 2: Assign yourself
+1. Open `index.html` in your web browser
+2. Click on any empty square to make your move
+3. The computer will automatically make its move
+4. The first player to get three marks in a row (horizontally, vertically, or diagonally) wins
+5. When the game ends, "Game over" will be displayed
 
-_Great job opening that pull request! :wave:_
+## Features
 
-**What is a _pull request review_?**: Reviewing a pull request is an opportunity to examine another contributor's changes and give them feedback. It's an awesome opportunity to learn more about how the project works and how others solve problems.
+- Responsive grid layout
+- Intuitive click-based gameplay
+- Automatic computer opponent with random move selection
+- Win detection for rows, columns, and diagonals
+- Clean, modern design with system font
 
-The best way to get a review is to ask for one. On GitHub, you can ask someone to review a pull request by assigning them as a reviewer or assignee. If you are not ready for review, consider [creating a draft pull request](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request) instead.
+## Technologies Used
 
-### :keyboard: Activity: Assign yourself
+- HTML5
+- CSS3 (with dark mode support)
+- Vanilla JavaScript (ES6+)
 
-1. Open the pull request you just created.
-1. Under **Assignees** on the right side of the screen, add yourself.
+## License
 
-   Because you created the pull request, you can't assign yourself as a reviewer, but feel free to assign a friend as a reviewer instead to see how it works :smile:
-
-1. Wait about 20 seconds then refresh this page (the one you're following instructions from). [GitHub Actions](https://docs.github.com/en/actions) will automatically update to the next step.
-
-<footer>
-
-<!--
-  <<< Author notes: Footer >>>
-  Add a link to get support, GitHub status page, code of conduct, license link.
--->
-
----
-
-Get help: [Post in our discussion board](https://github.com/orgs/skills/discussions/categories/review-pull-requests) &bull; [Review the GitHub status page](https://www.githubstatus.com/)
-
-
-&copy; 2023 GitHub &bull; [Code of Conduct](https://www.contributor-covenant.org/version/2/1/code_of_conduct/code_of_conduct.md) &bull; [MIT License](https://gh.io/mit)
-
-</footer>
+&copy; 2023-2026 GitHub &bull; [MIT License](https://gh.io/mit)
